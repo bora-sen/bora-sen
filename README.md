@@ -1,5 +1,5 @@
 # 💻 Hi! I'm Bora:
-Front-End Developer based in Istanbul, Turkey. I love to create beautiful websites.
+Junior Full-Stack Developer based in Istanbul, Turkey. I love to create beautiful websites.
 
 
 ## 🌐 Socials:
