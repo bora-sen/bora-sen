@@ -1,6 +1,7 @@
+
+<img align="center" src="./profile-banner.webp" width="1280"/>
+
 # 💻 Hi! I'm Bora:
-
-
 <img align="right" src="./bust.png" width="260" height="260" />
 <p align="left">
 Eager to learn new technologies and develop new skills in every opportunity. Creative and ambitious individual with a passion for building comprehensive digital solutions. Loves to explore new technologies to bring their visions to life. Not afraid to experiment with different approaches to problem-solving.
