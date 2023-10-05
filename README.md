@@ -11,17 +11,20 @@ Eager to learn new technologies and develop new skills in every opportunity. Cre
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahattinborasen.gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bborasen)
-[![Website](https://img.shields.io/badge/Portfolio%20Website-%230077B5.svg?style=for-the-badge)](https://bborasen.com)
+[![Website](https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDYiIGhlaWdodD0iNDYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjEuNSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik0xMiAyLjI1QTkuNzUgOS43NSAwIDAgMCAyLjI1IDEyYzAgNS4zODQgNC4zNjUgOS43NSA5Ljc1IDkuNzUgNS4zODQgMCA5Ljc1LTQuMzY2IDkuNzUtOS43NSAwLTUuMzg1LTQuMzY2LTkuNzUtOS43NS05Ljc1WiI+PC9wYXRoPgogIDxwYXRoIGQ9Ik0xMiAyLjI1Yy0yLjcyMiAwLTUuMjggNC4zNjUtNS4yOCA5Ljc1IDAgNS4zODQgMi41NiA5Ljc1IDUuMjgxIDkuNzUgMi43MjIgMCA1LjI4Mi00LjM2NiA1LjI4Mi05Ljc1IDAtNS4zODUtMi41Ni05Ljc1LTUuMjgyLTkuNzVaIj48L3BhdGg+CiAgPHBhdGggZD0iTTUuNSA1LjVDNy4yOTMgNi43NzMgOS41NSA3LjUzMiAxMiA3LjUzMmMyLjQ1MSAwIDQuNzA4LS43NiA2LjUtMi4wMzIiPjwvcGF0aD4KICA8cGF0aCBkPSJNMTguNSAxOC41Yy0xLjc5Mi0xLjI3Mi00LjA0OS0yLjAzMS02LjUtMi4wMzEtMi40NSAwLTQuNzA3Ljc1OS02LjUgMi4wMzEiPjwvcGF0aD4KICA8cGF0aCBkPSJNMTIgMi4yNXYxOS41Ij48L3BhdGg+CiAgPHBhdGggZD0iTTIxLjc1IDEySDIuMjUiPjwvcGF0aD4KPC9zdmc+)](https://bborasen.com)
 
 # ⌨️ Tech Stack:
 ![MacOS](https://img.shields.io/badge/MacOS-111?style=for-the-badge&logo=apple&lmogoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Astro](https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress)
+![Greensock](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-darkgreen?style=for-the-badge&logo=npm&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
