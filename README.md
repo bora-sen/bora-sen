@@ -1,4 +1,4 @@
-<img align="center" src="./profile-banner.webp" width="1280"/>
+<img align="center" src="./banner.gif" width="1280"/>
 
 # 💻 Hi! I'm Bora:
 <img align="right" src="./bust.png" width="260" height="260" />
@@ -50,5 +50,4 @@ Adapts to latest technologies and develop new skills in every opportunity. Creat
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bora-sen&theme=light&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bora-sen&hide_progress=true&hide_border=true)
